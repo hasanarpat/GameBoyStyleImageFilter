@@ -1,2 +1,2 @@
 # GameBoyStyleImageFilter
-Just basic GmeBoy color palette  stylings for your images.
+Just basic GameBoy color palette  stylings for your images.
